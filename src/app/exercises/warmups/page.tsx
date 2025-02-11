@@ -3,14 +3,9 @@ export default function WarmupsPage() {
     <div>
       <h1 className="text-2xl font-bold">Warm-Up Exercises</h1>
       <p className="mt-2">
-        Prepare your body for workouts with these warm-up routines.
+        Shoulder mobility, chest and bicep stretches, wrist mobility, waist
+        rotation and bar hangs.
       </p>
-      <ul className="list-disc list-inside mt-4">
-        <li>Jumping Jacks</li>
-        <li>Arm Circles</li>
-        <li>Leg Swings</li>
-        <li>Dynamic Stretching</li>
-      </ul>
     </div>
   );
 }
